@@ -1,0 +1,4 @@
+﻿  dbs lab 06 Shabanova.cpp
+dbs lab 06 Shabanova.obj : error LNK2001: unresolved external symbol "public: static void __cdecl oracle::occi::Environment::terminateEnvironment(class oracle::occi::Environment *)" (?terminateEnvironment@Environment@occi@oracle@@SAXPEAV123@@Z)
+dbs lab 06 Shabanova.obj : error LNK2001: unresolved external symbol "public: static class oracle::occi::Environment * __cdecl oracle::occi::Environment::createEnvironment(enum oracle::occi::Environment::Mode,void *,void * (__cdecl*)(void *,unsigned __int64),void * (__cdecl*)(void *,void *,unsigned __int64),void (__cdecl*)(void *,void *))" (?createEnvironment@Environment@occi@oracle@@SAPEAV123@W4Mode@123@PEAXP6APEAX1_K@ZP6APEAX112@ZP6AX11@Z@Z)
+C:\Users\naiba\OneDrive\Desktop\Projectdbs\x64\Release\Projectdbs.exe : fatal error LNK1120: 2 unresolved externals
